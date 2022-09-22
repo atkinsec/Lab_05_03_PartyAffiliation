@@ -11,7 +11,7 @@ public class Main {
         else if (party.equalsIgnoreCase("I"))
             System.out.println("You get independent person");
         else
-            System.out.println("you get other, no party affiliation");
+            System.out.println("you get other");
     }
 
 }
